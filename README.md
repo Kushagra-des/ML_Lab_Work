@@ -48,20 +48,20 @@ A collection of Python laboratory exercises demonstrating the fundamentals of **
 ML_Lab_Work/
 │
 ├── NumPy/
-│   ├── Numpy_Basic.ipynb
-│   └── Numpy_Lab_Work.ipynb
+│── Numpy_Basic.ipynb
+│── Numpy_Lab_Work.ipynb
 │
 ├── Pandas/
-│   ├── Pandas_Practice.ipynb
-│   └── Panda_Lab_Work.ipynb
+│── Pandas_Practice.ipynb
+│── Panda_Lab_Work.ipynb
 │
 ├── Matplotlib/
-│   ├── Matplotlib_Practice.ipynb
-│   └── MatPlotLib_Lab_Work.ipynb
+│── Matplotlib_Practice.ipynb
+│── MatPlotLib_Lab_Work.ipynb
 │
 ├── Dataset/
-│   ├── sales.csv
-│   └── data2.xlsx
+│── sales.csv
+│── data2.xlsx
 │
 └── README.md
 ```
