@@ -45,25 +45,31 @@ A collection of Python laboratory exercises demonstrating the fundamentals of **
 ## Project Structure
 
 ```
+## Project Structure
+
+```text
 ML_Lab_Work/
 │
-├── NumPy/
-│── Numpy_Basic.ipynb
-│── Numpy_Lab_Work.ipynb
+├── Database.csv                          # Dataset used for NumPy/Pandas practice
+├── sales.csv                             # Sales dataset for data analysis
+├── data2.xlsx                            # Excel dataset for Pandas operations
 │
-├── Pandas/
-│── Pandas_Practice.ipynb
-│── Panda_Lab_Work.ipynb
+├── Numpy_Basic.ipynb                     # Introduction to NumPy arrays and operations
+├── Numpy_Lab_Work.ipynb                  # NumPy practice exercises
 │
-├── Matplotlib/
-│── Matplotlib_Practice.ipynb
-│── MatPlotLib_Lab_Work.ipynb
+├── Pandas Tutorial - 1.ipynb             # Pandas fundamentals
+├── Panda_Lab_Work.ipynb                  # Pandas lab exercises
+├── Pandas_Practice.ipynb                 # Additional Pandas practice
 │
-├── Dataset/
-│── sales.csv
-│── data2.xlsx
+├── Matplotlib Tutorial.ipynb             # Basics of data visualization
+├── Matplotlib_Practice.ipynb             # Matplotlib practice examples
+├── Matplotlib - Bar & Pie Plot.ipynb     # Bar chart and pie chart examples
+├── MatPlotLib_Lab_Work.ipynb             # Matplotlib lab exercises
 │
-└── README.md
+├── Seaborn Tutorial.ipynb                # Statistical data visualization with Seaborn
+│
+└── README.md                             # Project documentation
+```
 ```
 
 > **Note:** The folder structure above is recommended for better organization. If your current repository has a different structure, you can update this section accordingly.
